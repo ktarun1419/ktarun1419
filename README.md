@@ -1,7 +1,7 @@
 # Hi there, I'm Tarun 👋
 
 I'm a passionate software developer with a keen interest in full-stack development, cloud computing, and open-source contributions. I love to learn and explore new technologies and apply them in real-world projects.
-Currently workings as SDE at @Mercle , Founder at @ChadFinane (an omnichain stablecoin that lets LPs unlock $3B+ TVL, hedge impermanent loss, and keep raking in yields)
+Currently workings as SDE at @Mercle , Founder at @ChadFinane (a DEX and an omnichain stablecoin that lets LPs unlock $3B+ TVL, hedge impermanent loss, and keep raking in yields)
 
 ## 🔧 Technologies & Tools
 
