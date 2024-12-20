@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Tarun 👋
 
-<!--
-**ktarun1419/ktarun1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a keen interest in backend development, cloud computing, and open-source contributions. I love to learn and explore new technologies and apply them in real-world projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, JavaScript, Typescript, Solidity , 
+- **Frameworks**:  Vue, React
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud**: AWS,
+- **Tools**: Docker, Git
+
+## 📫 Get in Touch
+
+- **Telegram**: [Your Telegram Profile](https://t.me/ktarun1419)
+- **X**: https://x.com/kyachad
+
+
+## 💬 Let's Connect
+
+Feel free to reach out to me if you want to collaborate on a project, need help with something, or just want to chat about technology!
+
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktarun1419&show_icons=true&theme=radical)
