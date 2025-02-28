@@ -17,7 +17,4 @@ Currently workings as SDE at @Mercle , Founder at @ChadFinane (a DEX and an omni
 - **X**: https://x.com/kyachad
 
 
-## 📊 GitHub Stats
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktarun1419&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktarun1419&layout=compact&theme=radical)
