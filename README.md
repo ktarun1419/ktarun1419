@@ -5,7 +5,7 @@ Currently workings as SDE at @Mercle , Founder at @ChadFinane (a DEX and an omni
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript, Typescript, Solidity , 
+- **Languages**: Python, JavaScript, Typescript, Solidity 
 - **Frameworks**:  Vue, React
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud**: AWS,
