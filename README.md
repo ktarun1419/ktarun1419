@@ -1,4 +1,4 @@
-# Yo, I’m Tarun – Crypto Native Dev & DeFi Chad 👋
+# GM, I’m Tarun – Crypto Native Dev & DeFi Chad 👋
 
 Welcome to my corner of the blockchain! I’m a full-stack dev obsessed with building decentralized systems that empower users and flip traditional finance on its head. From smart contracts to omnichain protocols, I live for the grind of coding, deploying, and scaling Web3 solutions.  
 
