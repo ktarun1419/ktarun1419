@@ -20,10 +20,9 @@ Currently, I’m an SDE at [**Mercle**](https://github.com/Mercle), shipping cut
 
 - **DEX**: Low-slippage swaps with a UX that doesn’t suck.  
 - **Omnichain Stablecoin**: Bridging liquidity across chains, making IL a relic of the past.  
-- **Yield Farming**: LPs earn like it’s 2020, but smarter.  
+- **Yield Farming**: LPs earn like it’s 2020, but smarter.
 
-**Visual Placeholder**: Imagine a line chart here showing ChadFinance TVL growth (e.g., $0 to $3B+ projection) or a pie chart of LP yield distribution. Want me to generate it? Just say yes!
-
+  
 ---
 
 ## 📊 My Stats (On-Chain & Off)
@@ -32,15 +31,13 @@ Currently, I’m an SDE at [**Mercle**](https://github.com/Mercle), shipping cut
 - **PRs Merged**: More than the average rug pull count.  
 - **Chains Deployed On**: Ethereum, BSC, Arbitrum – multichain is my vibe.  
 
-**Visual Placeholder**: Picture a bar graph of commits/PRs over time or a heatmap of chain activity. Keen to add this? Let me know!
 
 ---
 
 ## 📡 Let’s Connect – No KYC Required
 
 - **Telegram**: [t.me/ktarun1419](https://t.me/ktarun1419) – DMs open for collabs or memes.  
-- **X**: [x.com/kyachad](https://x.com/kyachad) – Catch my hot takes on DeFi and alpha leaks.  
-- **Wallet**: Drop me some ETH for coffee (jk… unless?).  
+- **X**: [x.com/kyachad](https://x.com/kyachad) – Catch my hot takes on DeFi and alpha leaks.
 
 ---
 
