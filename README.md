@@ -13,7 +13,7 @@ Currently workings as SDE at @Mercle , Founder at @ChadFinane (a DEX and an omni
 
 ## 📫 Get in Touch
 
-- **Telegram**: [Your Telegram Profile](https://t.me/ktarun1419)
+- **Telegram**: https://t.me/ktarun1419
 - **X**: https://x.com/kyachad
 
 
