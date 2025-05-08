@@ -41,14 +41,6 @@ Currently, I’m an SDE at [**Mercle**](https://github.com/Mercle), shipping cut
 
 ---
 
-## ⚡ Fun Facts
-
-- I’ve audited more Solidity code than I’ve had hot dinners.  
-- My favorite opcode? `CALLDATALOAD` – efficiency is king.  
-- HODLing knowledge > HODLing tokens.  
-
----
-
 ### Join the Revolution
 Wanna build the next big thing in DeFi? Fork my repos, ping me on Telegram, or vibe with me on X. Let’s ship some code that breaks CeFi and keeps the blockchain humming.
 
