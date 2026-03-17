@@ -32,6 +32,7 @@ Built the DEX and perp frontend from scratch using Next.js and TypeScript. Devel
 
 ### Mercle
 Engineered and maintained web applications using React, Express, PostgreSQL, and Redis. Built and shipped new product features, improved job scheduling flows, developed a blockchain transaction indexer for faster data retrieval, managed smart contract deployments, and created a price indexer that aggregated data from multiple APIs and DEXes.
+
 ---
 
 ## Selected Projects
@@ -56,4 +57,3 @@ Engineered and maintained web applications using React, Express, PostgreSQL, and
 ## Stack
 
 Next.js, React, TypeScript, Tailwind CSS, ethers.js, Privy, Zustand, websocket-based systems, charting libraries
-
