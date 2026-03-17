@@ -1,48 +1,51 @@
-# GM, I’m Tarun – Crypto Native Dev & DeFi Chad 👋
+# Hi, I'm Tarun Kaushik
 
-Welcome to my corner of the blockchain! I’m a full-stack dev obsessed with building decentralized systems that empower users and flip traditional finance on its head. From smart contracts to omnichain protocols, I live for the grind of coding, deploying, and scaling Web3 solutions.  
+Frontend-focused engineer building fast interfaces and real-time products in crypto.
 
-Currently, I’m an SDE at [**Mercle**](https://github.com/Mercle), shipping cutting-edge tools for the decentralized future, and the Founder of [**ChadFinance**](https://github.com/ChadFinane) – a DEX and omnichain stablecoin protocol unlocking **$3B+ TVL**, letting LPs hedge impermanent loss (IL) like pros while stacking yields non-stop. Let’s make DeFi great again.
+I work mainly across trading UIs, DeFi products, and onchain applications, with a strong focus on frontend architecture, low-latency state updates, and execution-heavy user flows. My recent work has included prediction market products, DEX and perp frontends, and tooling around crypto trading.
 
----
+## What I work on
 
-## 🛠️ My Web3 Arsenal
+- High-performance frontend systems for trading and DeFi apps
+- Real-time market interfaces and charting integrations
+- Frontend architecture with Next.js, React, and TypeScript
+- Wallet auth, execution flows, and product UX for crypto users
+- Trading automation and strategy tooling for prediction markets
 
-- **Languages**: Solidity (smart contracts are my jam), Python, JavaScript, TypeScript  
-- **Frameworks**: Vue, React (UIs that slap), Hardhat, Foundry  
-- **Databases**: MySQL, PostgreSQL, MongoDB, IPFS (decentralized storage ftw)  
-- **Cloud & Infra**: AWS, Docker, Git, EVM-compatible chains (Ethereum, Polygon, you name it)  
-- **Crypto Stack**: Uniswap SDK, OpenZeppelin, Chainlink Oracles, ethers.js  
+## Experience
 
----
+### ChadFinance — Founder
+Built and shipped products in the DeFi/trading space, including exchange-style interfaces and crypto-native tooling. Worked across product direction, frontend implementation, and system design.
 
-## 🌐 What’s Cooking at ChadFinance?
+### Tradefox
+Built frontend features for a prediction market aggregator, including copy trading flows and sports-focused betting interfaces. Improved frontend performance, handled authentication with Privy, and integrated charting experiences for Polymarket and Kalshi.
 
-- **DEX**: Low-slippage swaps with a UX that doesn’t suck.  
-- **Omnichain Stablecoin**: Bridging liquidity across chains, making IL a relic of the past.  
-- **Yield Farming**: LPs earn like it’s 2020, but smarter.
+### Ryze Protocol
+Built the DEX and perp frontend from scratch using Next.js and TypeScript. Developed swap, liquidity, and login flows, and built a custom store system for high-frequency price updates when conventional state tools introduced lag.
 
-  
----
+## Projects
 
-## 📊 My Stats (On-Chain & Off)
+### Prediction Market Arbitrage Bot
+Built an arbitrage bot for prediction markets across Kalshi and Polymarket.
 
-- **Commits**: Pushing code like it’s gasless transactions.  
-- **PRs Merged**: More than the average rug pull count.  
-- **Chains Deployed On**: Ethereum, BSC, Arbitrum – multichain is my vibe.  
+### Polymarket Last-Second Sniping Strategy
+Built a custom strategy for last-second execution on Polymarket.
 
+## Tech
 
----
+**Frontend**  
+Next.js, React, TypeScript, Tailwind CSS
 
-## 📡 Let’s Connect – No KYC Required
+**State & Data**  
+Custom store systems, Zustand, real-time event handling, websocket-driven UIs
 
-- **Telegram**: [t.me/ktarun1419](https://t.me/ktarun1419) – DMs open for collabs or memes.  
-- **X**: [x.com/kyachad](https://x.com/kyachad) – Catch my hot takes on DeFi and alpha leaks.
+**Web3**  
+Ethers.js, wallet integrations, Privy, trading interfaces, onchain product flows
 
----
+**Other**  
+Charting libraries, performance optimization, execution-heavy product design
 
-### Join the Revolution
-Wanna build the next big thing in DeFi? Fork my repos, ping me on Telegram, or vibe with me on X. Let’s ship some code that breaks CeFi and keeps the blockchain humming.
+## Connect
 
-
-
+- Telegram: [@ktarun1419](https://t.me/ktarun1419)
+- X: [@kyachad](https://x.com/kyachad)
