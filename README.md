@@ -55,9 +55,3 @@ Built the DEX and perp frontend from scratch. Developed swap, liquidity, and log
 
 Next.js, React, TypeScript, Tailwind CSS, ethers.js, Privy, Zustand, websocket-based systems, charting libraries
 
----
-
-## Contact
-
-- Telegram: [@ktarun1419](https://t.me/ktarun1419)
-- X: [@kyachad](https://x.com/kyachad)
