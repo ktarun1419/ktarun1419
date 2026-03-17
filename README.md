@@ -21,15 +21,17 @@ My recent work includes prediction market products, DEX and perp frontends, low-
 
 ## Experience
 
-### ChadFinance — Founder
-Led product and engineering across crypto-native products, with hands-on work in frontend systems, exchange-style interfaces, and trading workflows.
+### YoloMarkets — Co-Founder
+Built the frontend for an attention markets product from design to implementation. Worked on the full UI flow, from structuring product screens in Figma to shipping the frontend using modern tooling and MCP-assisted workflows. Focused on making the interface clear, fast, and usable for market-heavy products.
 
 ### Tradefox
 Worked on a prediction market aggregator. Built copy trading and sports mode interfaces, improved frontend performance, implemented login flows with Privy, and integrated Polymarket and Kalshi charting experiences.
 
 ### Ryze Protocol
-Built the DEX and perp frontend from scratch. Developed swap, liquidity, and login flows, and created a custom store library to handle high-frequency market updates with lower latency than standard state tooling.
+Built the DEX and perp frontend from scratch using Next.js and TypeScript. Developed swap, add/remove liquidity, and login flows, and created a custom store library to handle high-frequency market updates with lower latency than standard state tooling.
 
+### Mercle
+Engineered and maintained web applications using React, Express, PostgreSQL, and Redis. Built and shipped new product features, improved job scheduling flows, developed a blockchain transaction indexer for faster data retrieval, managed smart contract deployments, and created a price indexer that aggregated data from multiple APIs and DEXes.
 ---
 
 ## Selected Projects
