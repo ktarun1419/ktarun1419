@@ -1,51 +1,63 @@
-# Hi, I'm Tarun Kaushik
+<h1 align="center">Tarun Kaushik</h1>
+<p align="center">
+  Frontend Engineer building trading interfaces, DeFi products, and real-time crypto applications.
+</p>
 
-Frontend-focused engineer building fast interfaces and real-time products in crypto.
+<p align="center">
+  <a href="https://t.me/ktarun1419">Telegram</a>
+  ·
+  <a href="https://x.com/kyachad">X</a>
+</p>
 
-I work mainly across trading UIs, DeFi products, and onchain applications, with a strong focus on frontend architecture, low-latency state updates, and execution-heavy user flows. My recent work has included prediction market products, DEX and perp frontends, and tooling around crypto trading.
+---
 
-## What I work on
+## About
 
-- High-performance frontend systems for trading and DeFi apps
-- Real-time market interfaces and charting integrations
-- Frontend architecture with Next.js, React, and TypeScript
-- Wallet auth, execution flows, and product UX for crypto users
-- Trading automation and strategy tooling for prediction markets
+I work on frontend systems for crypto products where speed, clarity, and execution matter.
+
+My recent work includes prediction market products, DEX and perp frontends, low-latency market interfaces, and trading-focused user flows. I mainly work with Next.js, React, and TypeScript, with a strong focus on performance, state architecture, and real-time updates.
+
+---
 
 ## Experience
 
 ### ChadFinance — Founder
-Built and shipped products in the DeFi/trading space, including exchange-style interfaces and crypto-native tooling. Worked across product direction, frontend implementation, and system design.
+Led product and engineering across crypto-native products, with hands-on work in frontend systems, exchange-style interfaces, and trading workflows.
 
 ### Tradefox
-Built frontend features for a prediction market aggregator, including copy trading flows and sports-focused betting interfaces. Improved frontend performance, handled authentication with Privy, and integrated charting experiences for Polymarket and Kalshi.
+Worked on a prediction market aggregator. Built copy trading and sports mode interfaces, improved frontend performance, implemented login flows with Privy, and integrated Polymarket and Kalshi charting experiences.
 
 ### Ryze Protocol
-Built the DEX and perp frontend from scratch using Next.js and TypeScript. Developed swap, liquidity, and login flows, and built a custom store system for high-frequency price updates when conventional state tools introduced lag.
+Built the DEX and perp frontend from scratch. Developed swap, liquidity, and login flows, and created a custom store library to handle high-frequency market updates with lower latency than standard state tooling.
 
-## Projects
+---
 
-### Prediction Market Arbitrage Bot
-Built an arbitrage bot for prediction markets across Kalshi and Polymarket.
+## Selected Projects
 
-### Polymarket Last-Second Sniping Strategy
-Built a custom strategy for last-second execution on Polymarket.
+- Built an arbitrage bot for prediction markets between Kalshi and Polymarket
+- Built a custom last-second sniping strategy for Polymarket
+- Built liquidation bots for Aave, Liquity, and Morpho, focused on execution speed and monitoring liquidation opportunities
 
-## Tech
+---
 
-**Frontend**  
-Next.js, React, TypeScript, Tailwind CSS
+## Core Work
 
-**State & Data**  
-Custom store systems, Zustand, real-time event handling, websocket-driven UIs
+- Trading and market interfaces
+- Real-time frontend systems
+- Frontend architecture
+- Wallet auth and execution flows
+- DeFi and prediction market products
+- Performance optimization
 
-**Web3**  
-Ethers.js, wallet integrations, Privy, trading interfaces, onchain product flows
+---
 
-**Other**  
-Charting libraries, performance optimization, execution-heavy product design
+## Stack
 
-## Connect
+Next.js, React, TypeScript, Tailwind CSS, ethers.js, Privy, Zustand, websocket-based systems, charting libraries
+
+---
+
+## Contact
 
 - Telegram: [@ktarun1419](https://t.me/ktarun1419)
 - X: [@kyachad](https://x.com/kyachad)
